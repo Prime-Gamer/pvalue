@@ -1,6 +1,6 @@
-streamlit
-scipy
 math
+scipy
 matplotlib
 pandas
 numpy
+streamlit
